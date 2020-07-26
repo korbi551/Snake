@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #0A8754;
+}
+
+body {
+  margin: 5px;
+  background-color: #EAF2EF;
+}
